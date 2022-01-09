@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/error.png</file>
+        <file>img/eye.png</file>
+        <file>img/favicon.ico</file>
+        <file>img/key.png</file>
+        <file>img/more.png</file>
+        <file>img/pen.png</file>
+        <file>img/tv.png</file>
+        <file>img/xun.png</file>
+        <file>img/zhedie.png</file>
+        <file>img/add.png</file>
+        <file>img/delect.png</file>
+        <file>img/edit.png</file>
+    </qresource>
+</RCC>
