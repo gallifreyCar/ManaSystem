@@ -1,38 +1,3 @@
-![image-20211231075430040](https://user-images.githubusercontent.com/29010376/148675318-3498f7d8-caa4-4a6e-a46e-29fb09b3b33b.png)
-![image-20211231075430040-16409084717213](https://user-images.githubusercontent.com/29010376/148675319-81c81a63-4a63-46e5-9180-2da68702bfd1.png)
-![image-20211231075645138](https://user-images.githubusercontent.com/29010376/148675320-581a66a6-7218-4b54-ba2a-c6cd46037148.png)
-![image-20211231075645138-16409086071364](https://user-images.githubusercontent.com/29010376/148675321-0dea3440-eb03-47f1-b484-3638286227d1.png)
-![image-20211231075929729](https://user-images.githubusercontent.com/29010376/148675323-3502a9eb-7256-4311-a270-b87611b48431.png)
-![image-20211231075929729-16409087715345](https://user-images.githubusercontent.com/29010376/148675325-a12fefe7-f16c-45ea-bbaf-bf1f7627773c.png)
-![image-20211231080052315](https://user-images.githubusercontent.com/29010376/148675327-f9d5a74f-7f70-4d42-911a-863ae7859437.png)
-![image-20211231080052315-16409088543456](https://user-images.githubusercontent.com/29010376/148675328-8f3ce398-a125-4f6a-9d1a-a7147b0f6ac9.png)
-![image-20211231080250978](https://user-images.githubusercontent.com/29010376/148675330-fb4254f9-1638-4256-8250-6f5f267c8392.png)
-![image-20211231080250978-16409089732427](https://user-images.githubusercontent.com/29010376/148675331-9aab2a94-1d12-4a22-84e3-05c737f27554.png)
-![image-20211231080309561](https://user-images.githubusercontent.com/29010376/148675332-c18f51e5-385a-42c7-b7cb-b2eeca777bfc.png)
-![image-20211231080419776](https://user-images.githubusercontent.com/29010376/148675334-ce5471f1-4882-404a-bd94-4d7d1487b3a4.png)
-![image-20211231080419776-16409090618328](https://user-images.githubusercontent.com/29010376/148675335-0b0dd023-69a1-42f7-b181-0b9d0dbb75a1.png)
-![image-20211231080628305](https://user-images.githubusercontent.com/29010376/148675336-2b9644ac-6f45-494c-910d-ba138d979061.png)
-![image-20211231080628305-16409091900989](https://user-images.githubusercontent.com/29010376/148675337-20d05467-cb8d-47d4-b206-6aecbf0a922b.png)
-![image-20211231080924094](https://user-images.githubusercontent.com/29010376/148675338-08b5a679-64d5-4009-9731-33b72e0b48d5.png)
-![image-20211231080924094-164090936582010](https://user-images.githubusercontent.com/29010376/148675339-af2e6266-e153-4665-9e44-e08495f95167.png)
-![image-20211231081053441](https://user-images.githubusercontent.com/29010376/148675341-704b47f3-e861-40b0-a3bf-2b8480a422e2.png)
-![image-20211231081053441-164090945580411](https://user-images.githubusercontent.com/29010376/148675342-55d8a0a2-4e2d-42c2-bfa5-22033b25de62.png)
-![image-20211231081106889](https://user-images.githubusercontent.com/29010376/148675343-db4acd97-1934-437c-b92a-e1842d513d5b.png)
-![image-20211231081116856](https://user-images.githubusercontent.com/29010376/148675345-a0944583-5b0f-47f2-ae04-5e561b0eb5b8.png)
-![image-20211231081213874](https://user-images.githubusercontent.com/29010376/148675346-787020f1-cd03-4849-9bac-1f4292022c68.png)
-![image-20211231081213874-164090953660712](https://user-images.githubusercontent.com/29010376/148675347-52fa4262-b5fa-4f3d-a614-9127c431accb.png)
-![image-20211231081412378](https://user-images.githubusercontent.com/29010376/148675348-6485ed5c-c72f-4c78-8b4a-eb5a52cbac37.png)
-![image-20211231081412378-164090965394213](https://user-images.githubusercontent.com/29010376/148675349-d16acb41-901f-4052-a765-9e02f7747403.png)
-![image-20211231081635985](https://user-images.githubusercontent.com/29010376/148675350-1ae6d108-0758-4667-9fa4-d2f1e88cc59b.png)
-![image-20211231081635985-164090979750414](https://user-images.githubusercontent.com/29010376/148675352-c49d28ef-a809-4faf-87ad-983437e2bf18.png)
-![image-20211231081701713](https://user-images.githubusercontent.com/29010376/148675353-10af1add-f492-4ea6-b878-8152fbb5e325.png)
-![image-20211231081701713-164090982304515](https://user-images.githubusercontent.com/29010376/148675355-26d0da22-2965-4b7b-aa3d-ed6c4036a2e0.png)
-![image-20211231081858674](https://user-images.githubusercontent.com/29010376/148675356-d12fb81c-8371-4d97-b739-606c006d43f6.png)
-![image-20211231081858674-164090994025416](https://user-images.githubusercontent.com/29010376/148675357-8d973b9d-336c-4c1d-8018-f71f91b3035c.png)
-![image-20211231081913857](https://user-images.githubusercontent.com/29010376/148675358-12ae0ea6-d632-4d04-97fb-4c390db037c7.png)
-![image-20211231081913857-164090995552617](https://user-images.githubusercontent.com/29010376/148675360-181e23d9-ddb2-4aeb-9163-693813d879d3.png)
-![image-20211231081937034](https://user-images.githubusercontent.com/29010376/148675362-4ab8c93f-0da9-453a-a837-452c75c09ebf.png)
-![image-20220106044727148](https://user-images.githubusercontent.com/29010376/148675363-90a6d910-3399-47e6-aaba-284265e98bd0.png)
 ## 1	概述	
 
 ### 1.1程序的基本功能
@@ -111,19 +76,14 @@ EmpMoney（职工工资）就是我这次用到的数据库表，SQLite只有4�
 
 ### 3.2	实体类模型设计
 
-![image-20211231075318560](E:\HUMEN\学习笔记\picture\image-20211231075318560-16409084000922.png)
-
 数据中所有职工工资映射的实体类
 
 ### 3.3	数据库连接层设计
 
-![image-20211231075430040](E:\HUMEN\学习笔记\picture\image-20211231075430040-16409084717213.png)
 
 LinkSQLite类的设计，用于连接数据，编写SQLite的sql语句，数据库的增删改查得以实现
 
 ### 3.4	控制器和视图交互	
-
-![image-20211231075645138](E:\HUMEN\学习笔记\picture\image-20211231075645138-16409086071364.png)
 
 视图层和控制器合二为一 了，删去冗余的业务逻辑层，在mainwindow完成了模型和视图的交互，并处理业务逻辑。
 
@@ -135,53 +95,48 @@ LinkSQLite类的设计，用于连接数据，编写SQLite的sql语句，数据�
 
 1.登陆失败提醒 （管理员初始账号密码均为:admin）
 
-![image-20211231075929729](E:\HUMEN\学习笔记\picture\image-20211231075929729-16409087715345.png)
+![clip_image010](https://user-images.githubusercontent.com/29010376/148675410-21dbcce0-80bd-4d09-8314-0c3dffae8992.png)
+
 
 2.登陆成功显示所有职工工资信息
 
-![image-20211231080924094](E:\HUMEN\学习笔记\picture\image-20211231080924094-164090936582010.png)
+![clip_image012](https://user-images.githubusercontent.com/29010376/148675426-70160239-7081-4267-9be4-b3ede68473e5.png)
+
 
 #### 4.1.2查询功能
 
 1.精确查询  （登陆页面提供折叠功能，已经折叠）
 
-![image-20211231080419776](E:\HUMEN\学习笔记\picture\image-20211231080419776-16409090618328.png)
+![clip_image014](https://user-images.githubusercontent.com/29010376/148675446-5af672aa-6d33-499e-85bf-40bbb521d9ae.png)
 
 2.模糊查询
-
-![image-20211231080628305](E:\HUMEN\学习笔记\picture\image-20211231080628305-16409091900989.png)
+![clip_image016](https://user-images.githubusercontent.com/29010376/148675472-c2ac0ad8-dc5a-4310-89ad-4cd0c2cecd1e.png)
 
 #### 4.1.3删除功能
 
-![image-20211231081053441](E:\HUMEN\学习笔记\picture\image-20211231081053441-164090945580411.png)
+![clip_image028](https://user-images.githubusercontent.com/29010376/148675551-66ff37ec-4fd7-40a5-8917-7fab34a65fa2.png)
 
-![image-20211231081106889](E:\HUMEN\学习笔记\picture\image-20211231081106889.png)
-
-![image-20211231081116856](E:\HUMEN\学习笔记\picture\image-20211231081116856.png)
 
 #### 4.1.3新增表单功能
 
 1.点击查找旁边的增加表单按钮 进入新增表单页面
 
-![image-20211231081213874](E:\HUMEN\学习笔记\picture\image-20211231081213874-164090953660712.png)
+![clip_image024](https://user-images.githubusercontent.com/29010376/148675589-903ef373-f46c-4a9a-a4bc-4800f1076d53.png)
 
 2.填写并提交
 
-![image-20211231081635985](E:\HUMEN\学习笔记\picture\image-20211231081635985-164090979750414.png)
+![clip_image026](https://user-images.githubusercontent.com/29010376/148675638-fdf59357-4c83-4b4d-ad8d-66eb38db163c.png)
+
 
 3.自动计算工资税务，应发数，实发数
+![clip_image028-16413769338422](https://user-images.githubusercontent.com/29010376/148675649-24c6318d-a216-4e1f-85df-b7678e4ba3c1.png)
 
-![image-20211231081701713](E:\HUMEN\学习笔记\picture\image-20211231081701713-164090982304515.png)
 
 
 
 4.14修改
+![clip_image032](https://user-images.githubusercontent.com/29010376/148675656-09efae92-b5a8-4b87-bb5e-c4a7071c92ae.png)
 
-![image-20211231081858674](E:\HUMEN\学习笔记\picture\image-20211231081858674-164090994025416.png)
-
-![image-20211231081913857](E:\HUMEN\学习笔记\picture\image-20211231081913857-164090995552617.png)
-
-![image-20211231081937034](E:\HUMEN\学习笔记\picture\image-20211231081937034.png)
 
 ### 4.2	遇到的问题及解决	
 
