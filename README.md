@@ -62,7 +62,8 @@
 
 ### 3.1	数据库设计
 
-![image-20211231073900186](E:\HUMEN\学习笔记\picture\image-20211231073900186-16409075427701.png)
+![clip_image002-16413769338411](https://user-images.githubusercontent.com/29010376/148675705-9599471f-69cb-4c6b-9e9a-199d847d393c.png)
+
 
 EmpMoney（职工工资）就是我这次用到的数据库表，SQLite只有4种数据类型，除了表主键id，职工编号empID外，其余用于计算工资的数值类型均选择了与double亲和类型最近的real类型
 
@@ -110,6 +111,7 @@ LinkSQLite类的设计，用于连接数据，编写SQLite的sql语句，数据�
 ![clip_image014](https://user-images.githubusercontent.com/29010376/148675446-5af672aa-6d33-499e-85bf-40bbb521d9ae.png)
 
 2.模糊查询
+
 ![clip_image016](https://user-images.githubusercontent.com/29010376/148675472-c2ac0ad8-dc5a-4310-89ad-4cd0c2cecd1e.png)
 
 #### 4.1.3删除功能
@@ -129,12 +131,15 @@ LinkSQLite类的设计，用于连接数据，编写SQLite的sql语句，数据�
 
 
 3.自动计算工资税务，应发数，实发数
+
 ![clip_image028-16413769338422](https://user-images.githubusercontent.com/29010376/148675649-24c6318d-a216-4e1f-85df-b7678e4ba3c1.png)
 
 
 
 
 4.14修改
+
+
 ![clip_image032](https://user-images.githubusercontent.com/29010376/148675656-09efae92-b5a8-4b87-bb5e-c4a7071c92ae.png)
 
 
